@@ -3,8 +3,8 @@
 
 title:   'Cillians Book Reviews'
 author:
-  name:  'Jekyll Minimal Theme Team'
-
+name:  'Jekyll Minimal Theme Team'
+theme: jekyll-theme-minimal 
 ## note: 
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
